@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "BlogInn"
+title: "UniquelyGrant"
 
 # Tagline next to the site title
-tagline: "Thoughts, stories and ideas."
+tagline: "Thoughts, ideas, and your daily dose of monologuing"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "BlogInn is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net."
+description: "BA¹ with a BS² in SD³ (Business Analyst¹; Bachelors of Science²; Software Development³: Just for clarity...)"
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
@@ -23,7 +23,7 @@ sass:
   style: compressed
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://bloginn.netlify.app"
+url: "https://uniquelygrant.com"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -31,43 +31,41 @@ navigation:
   url: /
 - text: About
   url: /about/
-- text: Style Guide
-  url: /style-guide/
 - text: Archives
   url: /tags/
 
 # The shortname for your Disqus site to enable comments.
-disqus: "justgoodthemes"
+disqus:
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+google_analytics: 
 
 # Author information - author info at the bottom of the post
-author_name: "John Doe"
-author_bio: "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious."
-author_url:  "http://justgoodthemes.com"
-author_location: "Vilnius, Lithuania"
-author_image: /images/authorimage.png
+author_name: "Grant E. Weldon"
+author_bio: "Can't I just be a person with opinions, founded or not?"
+author_url:  "https://uniquelygrant.com"
+author_location: "Somewheeeerrreee, over the raiiinboooowww"
+author_image:
 
 # Sidebar Add banner
-banner_url: "https://justgoodthemes.com"
-banner_image: images/banner.jpg
-banner_image_alt: "Alt text"
+banner_url: 
+banner_image: 
+banner_image_alt: 
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
-mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
+mailchimp_url: 
 
 # Social links in the site footer
-twitter_url: "https://twitter.com/"
-facebook_url: "https://www.facebook.com/"
-github_url: "https://github.com/"
-codepen_url: "https://codepen.io/"
-dribbble_url: "https://dribbble.com/"
-medium_url: "https://medium.com/"
-instagram_url: "https://www.instagram.com/"
-pinterest_url: "https://www.pinterest.com/"
-linkedin_url: "https://www.linkedin.com/"
-weibo_url: "https://www.weibo.com/"
+twitter_url: 
+facebook_url: 
+github_url: "https://github.com/geweldon"
+codepen_url: 
+dribbble_url: 
+medium_url:
+instagram_url: 
+pinterest_url: "
+linkedin_url: "https://www.linkedin.com/in/grant-weldon-51721043/"
+weibo_url: 
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 4
