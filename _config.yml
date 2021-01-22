@@ -12,7 +12,7 @@ title: "UniquelyGrant"
 tagline: "Thoughts, ideas, and your daily dose of monologuing"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "BA¹ with a BS² in SD³ (Business Analyst¹; Bachelors of Science²; Software Development³: Just for clarity...)"
+description: "Certified BA¹ with a BS² in SD³ (Business Analyst¹; Bachelors of Science²; Software Development³: Just for clarity...)"
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl: /
@@ -42,7 +42,7 @@ google_analytics:
 
 # Author information - author info at the bottom of the post
 author_name: "Grant E. Weldon"
-author_bio: "BA¹ with a BS² in SD³ (Business Analyst¹; Bachelors of Science²; Software Development³: Just for clarity...)"
+author_bio: "Certified BA¹ with a BS² in SD³ (Business Analyst¹; Bachelors of Science²; Software Development³: Just for clarity...)"
 author_url:  "https://uniquelygrant.com"
 author_location: "Somewheeeerrreee, over the raiiinboooowww"
 author_image: "https://avatars.githubusercontent.com/u/1163819?s=460&u=32430a602070995f8217ae5f3c0411a4063cc74a&v=4"
